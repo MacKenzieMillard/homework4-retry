@@ -1,0 +1,14 @@
+{
+  "name": "homework4-retry",
+  "version": "1.0.0",
+  "description": "redoing hw4",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "KMM",
+  "license": "ISC"
+}
